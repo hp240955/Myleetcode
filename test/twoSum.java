@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 
 public class twoSum {
-////
+//fslkjfsdf
 	public static void main(String[] args) {
 		int[] array = {2, 2, 7, 11, 15};
 		twoSum hp = new twoSum();
