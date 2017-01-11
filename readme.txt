@@ -1,0 +1,1 @@
+The leetcode solutions completely from my working. Some of the solutions are intuitively from the solutions from other authors. 
